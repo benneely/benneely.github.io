@@ -17,7 +17,3 @@ that make research reproducible and transparent.
 - Computational Phenotype Study Design
 - Synthetic Data Generation
 - Time Series
-
-### Contact me
-
-[email@domain.com](mailto:email@domain.com)
