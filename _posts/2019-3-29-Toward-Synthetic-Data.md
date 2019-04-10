@@ -20,7 +20,7 @@ I think there is a difference between **fake** and **synthetic** data. Synthetic
  extend this notion of independence to not only datasets, but relational databases. Consider the following ER
  diagram from a simple toy example:
  
-![mail](images/er_diagram.png)
+![mail](/images/er_diagram.png)
 
 In a fake representation of the database, we would not expect to see accuracte relationships between a patient
 with a broken hip and the number of procedures related to correcting such an issue. In a synthetic representation of the 
